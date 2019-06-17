@@ -99,7 +99,7 @@
         "@babel/runtime": "7.4.4",
         "babel-eslint": "10.0.1",
         "babel-jest": "24.8.0",
-        "babel-plugin-ramda": "^2.0.0",
+        "babel-plugin-ramda": "2.0.0",
         "babel-preset-minify": "0.5.0",
         "cpy-cli": "2.0.0",
         "directory-tree": "2.2.3",
